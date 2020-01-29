@@ -1,0 +1,18 @@
+Warning[207] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 4 : Found label after column 1. (FVRCON)
+Warning[207] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 5 : Found label after column 1. (DAC1CON0)
+Warning[207] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 6 : Found label after column 1. (DAC1CON1)
+Warning[207] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 8 : Found label after column 1. (PORTA)
+Warning[207] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 9 : Found label after column 1. (LATA)
+Warning[207] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 10 : Found label after column 1. (ANSELA)
+Warning[207] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 11 : Found label after column 1. (TRISA)
+Message[302] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 44 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 49 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 52 : Argument out of range.  Least significant bits used.
+Warning[219] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 52 : Invalid RAM location specified.
+Message[302] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 55 : Argument out of range.  Least significant bits used.
+Warning[219] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 55 : Invalid RAM location specified.
+Message[302] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 55 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 58 : Argument out of range.  Least significant bits used.
+Message[302] C:\USERS\LOUIS\DESKTOP\MICROCHIP\INTERVIEW PROJECT.X\NEWPIC_8B_SIMPLE.ASM 58 : Register in operand not in bank 0.  Ensure that bank bits are correct.
